@@ -1,11 +1,10 @@
-console.log('running');
 
 function menu(){
   var freelance = document.querySelector('.umbrella_freelance h1');
   var client = document.querySelector('.umbrella_clients h1');
   var menuParent = document.querySelector('.umbrella_menu');
   var body = document.querySelector('body');
-  console.log(freelance);
+
   freelance.addEventListener('click', function(){
     if(!this.parentNode.classList.contains('open') && !client.parentNode.classList.contains('open')) {
       this.parentNode.classList.add('open');
@@ -44,9 +43,9 @@ function accordian(){
   for(i=0; i<workWrapper.length; i++){
     workWrapper[i].addEventListener('click', function(){
       var expandProject = this.querySelector('.expand-project span');
-      console.log(this);
+      // console.log(this);
       var accordian = this.querySelector('.project-accordian');
-      console.log(accordian);
+      // console.log(accordian);
       accordian.classList.toggle('open');
       expandProject.classList.toggle('open');
       setTimeout(function(){
@@ -161,14 +160,14 @@ function blobsClient() {
   }, 4000);
 }blobsClient();
 
-function overlay(){
-  var overlay = document.querySelector('.page-overlay');
-  var popup = document.querySelector('.closing-down');
-  overlay.addEventListener('click', function(){
-    popup.classList.add('hide');
-    overlay.classList.add('hide');
-  });
-}overlay();
+// function overlay(){
+//   var overlay = document.querySelector('.page-overlay');
+//   var popup = document.querySelector('.closing-down');
+//   overlay.addEventListener('click', function(){
+//     popup.classList.add('hide');
+//     overlay.classList.add('hide');
+//   });
+// }overlay();
 
 // var slide = document.querySelector('.how-it-works-slider');
 // UIkit.slider(slide);
