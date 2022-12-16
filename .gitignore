@@ -19,3 +19,6 @@ _site
 
 #text Editor
 .idea
+
+#text Editor
+.jekyll-cache
