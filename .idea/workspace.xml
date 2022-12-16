@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e0a68c6-6648-47c7-a19e-ecc04f537abe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Big-ideas_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Blanco-Nino_Instagram-Animated-Logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Brand_assets-07 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/CawstonDry_Social_r_can_fruits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/LONGBOTTOM_VISUAL_GROUP+low+res.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Nice+drinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Screenshot 2019-04-12 at 08.15 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Screenshot 2020-06-19 at 15.17 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Strategy_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Team_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Umbrella_Collective_Office-115_b&amp;w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Umbrella_wte.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/Umbrella_wte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/WM_VISUAL_GROUP_FALLING_B+lower+res.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/daisy&amp;dom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_compressed_bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_compressed_bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_compressed_medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_compressed_medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_condensed_bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_condensed_bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_black-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_extrabold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_extrabold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/kostic_-_roc_grotesk_wide_medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/som.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/uikit-icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/uikit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/uikit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/clients/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/freelance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/posts/welcome-to-jekyll/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/cawston/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/daisy-and-dom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/grounded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/lucky-saint/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/manilife/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/nice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/sony-music/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/projects/umbrella-test-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/roles/digital-design/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/team/tansy-drake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/team/tash-peskin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/team/tim-fowler/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/undercover/freelancer-friday-with-matt-wiley/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/undercover/the-mind-must-wander-a-travel-guide-to-lockdown/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/undercover/will-the-covid-19-pandemic-fuel-a-freelance-revolution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/1189f27c2ebd3364d3ab887cd292ea97-b2de05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/1189f27c2ebd3364d3ab887cd292ea97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/190606_SUMMER_PICKS_POST-5bbeb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/190606_SUMMER_PICKS_POST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/3 girls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/90089323_1747406712068542_703020400876049006_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Brand_assets-07 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Cawston_Press-Kew_Village_Fete-143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/D&amp;D group-3275ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/D&amp;D group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/D&amp;D tesselate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Grounded-Mint-Choc-M-lkshake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/LS ATL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/LS-ATL-c116d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/LS-ATL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/LS_nun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/LUCKY-SAINT-AD3-1x1-AD3-1x1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Screenshot 2019-04-12 at 08.15 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Screenshot 2019-04-12 at 08.15.03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Screenshot 2020-06-19 at 13.37.12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Screenshot 2020-06-19 at 15.17 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Screenshot 2021-02-15 at 14.10.39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Tim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/Umbrella_Collective_Office-028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/WhatsApp Image 2021-02-19 at 18.44.40.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/WhatsApp Image 2021-02-19 at 18.44.42.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/WhatsApp Image 2021-02-19 at 18.44.43 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/WhatsApp Image 2021-02-19 at 19.01.48.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/cheers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/choc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/clients_lead.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/da3c4ba9aa4a56c5754e9d152697e2b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/deep-roast-crunchylw-ae453e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/deep-roast-crunchylw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/freelance_lead.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/grouplw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/herolw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/ice_cream_mockup_almond_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/milk ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/mint-f3ea85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/mint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/nice_pack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/oppo_ads.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/oppo_packs-copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/oppo_sticks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/pink_extended-a759c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/pink_extended.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/recyclables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_carousel-d25f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_carousel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_chair-82421f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_chair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_eq-170cf8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_eq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_glasses-b2de6c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/sony_glasses.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/still life.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/still-life.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/tansy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/tash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/uploads/umbrella.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2J01VGJVkpkXiIraagV2EYXtMEk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e0a68c6-6648-47c7-a19e-ecc04f537abe" name="Default Changelist" comment="" />
+      <created>1671200209110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671200209110</updated>
+      <workItem from="1671200211507" duration="3133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
